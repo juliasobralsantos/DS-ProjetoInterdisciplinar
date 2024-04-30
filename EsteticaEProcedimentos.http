@@ -1,0 +1,6 @@
+@EsteticaEProcedimentos_HostAddress = http://localhost:5094
+
+GET {{EsteticaEProcedimentos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
